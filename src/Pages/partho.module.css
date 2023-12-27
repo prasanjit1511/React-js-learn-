@@ -1,0 +1,20 @@
+.partho{
+    background-color: rgb(64, 10, 0);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-style: italic;
+    margin-top: 10px;
+}
+
+.partho1{
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: palevioletred;
+    color: aliceblue;
+    text-align: center;
+    padding: 10px;
+    cursor: pointer;
+    margin-top: 10px;
+    padding: 10px;
+}
